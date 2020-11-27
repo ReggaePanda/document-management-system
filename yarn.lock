@@ -3565,13 +3565,12 @@
     "@types/express" "*"
     "@types/node" "*"
 
-"@types/express-session@1.15.12":
-  version "1.15.12"
-  resolved "https://registry.yarnpkg.com/@types/express-session/-/express-session-1.15.12.tgz#1126704826e80f8381da4fbbb35a199f550d1433"
-  integrity sha512-DHZXzWy6Nu5Ng0syXUiVFRpZ6/1DOXoTCWa6RG3itGrub2ioBYvgtDbkT6VHHNo3iOdHRROyWANsMBJVaflblQ==
+"@types/express-session@1.17.3":
+  version "1.17.3"
+  resolved "https://registry.yarnpkg.com/@types/express-session/-/express-session-1.17.3.tgz#4a37c5c4428b8f922ac8ac1cb4bd9190a4d2b097"
+  integrity sha512-57DnyxiqClXOIjoCgeKCUYfKxBPOlOY/k+l1TPK+7bSwyiPTrS5FIk1Ycql7twk4wO7P5lfOVy6akDGiaMSLfw==
   dependencies:
     "@types/express" "*"
-    "@types/node" "*"
 
 "@types/express@*":
   version "4.16.0"
